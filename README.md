@@ -14,7 +14,7 @@ This repository contains examples and scripts to invoke models using Amazon Bedr
 1. Clone the repository:
     ```sh
     git clone https://github.com/your-username/bedrock-model-invocation.git
-    cd bedrock-model-invocation
+    cd Amazon_bedrock
     ```
 
 2. Install the required Python packages:

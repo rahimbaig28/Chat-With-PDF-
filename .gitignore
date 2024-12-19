@@ -1,3 +1,5 @@
 .vs/
 venv/
 testadmin_accessKeys.csv
+faiss_index
+data

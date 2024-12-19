@@ -24,11 +24,13 @@ This project allows you to interact with PDF documents using advanced Language M
 - **AWS Credentials**: Ensure your AWS credentials are configured (`~/.aws/credentials`).
 - **Amazon Bedrock Access**: Set up Bedrock with permission to use Titan Embeddings and LLMs.
 
-### Python Dependencies
-Install required libraries using the following command:
-```bash
-pip install -r requirements.txt
+Python Dependencies
+To install the required libraries, use the following command:
 
+'''bash
+pip install -r requirements.txt  
 
 ## Required Files
 Add your PDF files to the data directory for ingestion.
+
+

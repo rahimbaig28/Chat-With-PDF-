@@ -27,10 +27,9 @@ This project allows you to interact with PDF documents using advanced Language M
 Python Dependencies
 To install the required libraries, use the following command:
 
-'''bash
 pip install -r requirements.txt  
 
 ## Required Files
-Add your PDF files to the data directory for ingestion.
+Add your PDF files to the data directory for ingestion.(create a folder name it as data and add your pdf files)
 
 

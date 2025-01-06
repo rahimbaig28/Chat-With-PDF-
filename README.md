@@ -33,3 +33,8 @@ pip install -r requirements.txt
 Add your PDF files to the data directory for ingestion.(create a folder name it as data and add your pdf files)
 
 
+
+
+
+
+

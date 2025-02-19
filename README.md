@@ -20,6 +20,7 @@ This project enables interactive querying of PDF documents using advanced Langua
 
 ## Prerequisites
 
+
 ### AWS Setup
 1. **AWS Credentials**: Ensure your AWS credentials are configured in `~/.aws/credentials`.
 2. **Amazon Bedrock Access**: Set up Bedrock with permissions to use Titan Embeddings and LLMs.
